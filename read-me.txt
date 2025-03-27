@@ -1,0 +1,12 @@
+Inicializando com o git no prompt
+    - git init;
+        Inicia o repositório.
+    - git status;
+        Verifica o status dos arquivos do repositório;
+            - vermelho: não gerenciado;
+            - verde: gerenciado;
+    - git add .;
+        Adiciona todos os arquivos do repositório.
+    - git commit -m "mensagem";
+        Serve para commitar os arquivos, uma espécie de save dos arquivos, para que possam ser enviados.
+    - 
